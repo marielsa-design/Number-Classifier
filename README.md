@@ -17,4 +17,4 @@ The program is a simple example of how Python functions and conditions work.
 
 ## Status
 
-The application is working correctly and the system is processing the number classification.
+>The application is working correctly and the system is processing the number classification.

@@ -1,0 +1,29 @@
+## Narrator script ##
+
+Hello, my name is Marielsa Parra, and today I am going to explain my Python program.
+
+This project is a Number Classifier written in Python.
+
+The program is a simple script that analyzes a number.
+
+At the beginning of the code, the variable number is defined.
+
+This variable is the value that the program analyzes.
+
+Next, the program defines a function called classify_number.
+
+This function is responsible for classifying the number.
+
+While the script is running, the system is checking the number.
+
+First, the program checks if the number is even or odd.
+
+If the number is divisible by two, the program returns "Even".
+
+Otherwise, the program returns "Odd".
+
+Then, the program checks if the number is positive, negative, or zero.
+
+Finally, the program returns the classification result, and the terminal prints the result on the screen.
+
+Right now, the system is processing the number and displaying the output.
